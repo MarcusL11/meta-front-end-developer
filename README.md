@@ -11,7 +11,7 @@
 - Module 2: [Introduction to HTML5 and CSS]()
 - Module 3: [UI Frameworks]()
 - Module 4: [Graded Assessment]()
-- [Course Certificate]()
+- [Course Certificate](https://coursera.org/verify/YKQL4WS4HHMB)
 </details>
 
 <details>
